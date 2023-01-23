@@ -10,6 +10,7 @@ I woke up one Saturday and thought this would be a good idea for a weekend proje
 ## Known limitations
 1) This mod can take a lot of time depending on the size your input (mesh vertex count, etc.)
 1) The merging doubles option sometimes seems to not preserve UV's and other important information
-1) This mod can be "aggressive" when splitting up a model, sometimes creating more parts than what is needed
+1) This mod can be "aggressive" when splitting up a model, sometimes creating more loose parts than what is needed. This can cause some unwanted lag
+1) As of v1.0.0, tested only on MeshRenderers
 
 ### And of course, back up your models before doing any kind of work on them!
