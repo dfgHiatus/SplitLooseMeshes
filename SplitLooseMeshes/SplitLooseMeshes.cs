@@ -38,7 +38,7 @@ namespace SplitLooseMeshes
         {
             public static void Postfix(MeshRenderer __instance, UIBuilder ui)
             {
-                var button = ui.Button("Split by Loose Parts");
+                var button = ui.Button("Split by loose parts");
 
                 button.LocalPressed += (sender, data) =>
                 {
