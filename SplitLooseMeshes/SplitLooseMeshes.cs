@@ -13,8 +13,8 @@ namespace SplitLooseMeshes;
 public class SplitLooseMeshes : ResoniteMod
 {
     public override string Name => "SplitLooseMeshes";
-    public override string Author => "dfgHiatus";
-    public override string Version => "2.0.0";
+    public override string Author => "dfgHiatus; 989onan";
+    public override string Version => "2.0.1";
     public override string Link => "https://github.com/dfgHiatus/SplitLooseMeshes/";
     public override void OnEngineInit()
     {
